@@ -17,5 +17,5 @@ A simple container which creates an archive of the folder mounted to `/backup` a
    -e WEBDAV_USERNAME=johndoe \
    -e WEBDAV_PASSWORD=password123 \
    -e WEBDAV_URL webdav.example.com \
-   -e /backups ghcr.io/Nicklas2751/backup2webdav:latest
+   -e /backups ghcr.io/nicklas2751/backup2webdav
  ```
